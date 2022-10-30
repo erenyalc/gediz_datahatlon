@@ -1,0 +1,22 @@
+#KESİNTİ SÜRESİNE GÖRE NUMERİC TO CATEGORİCAL ---- yapılmadı
+
+#SÜREYE_GÖRE DROP ET --droplandı
+
+#ŞEBEKE UNSURU RARE ENCODING YAPILACAK --- yapıldı başarılı
+
+#SEBEBE_GÖRE RARE ENCODING YAPILACAK  --- yapıldı başarısız
+
+#KAYNAĞA_GÖRE RARE ENCODING YAPILACAK ---- yapıldı başarısız
+
+#OUTLİER BASKILAMA YA DA SİLME YAPILACAK --- işe yaramadı model ezberledi lof yöntemi denendi
+
+#HİPERPARAMETRE OPTİMİZASYONU RANDOM GRID SEARCH CV İLE ---- optuna ile yapıldı
+
+HAVA DURUMU DEĞİŞKENLERİ EKLENEBİLİR SICAKLIK,RÜZGAR,YAĞIŞ,FIRTINALI OLMA DURUMU VB
+
+#ELEKTRİK TÜKETİM VERİSİ EKLENEBİLİR ---sonradan düşünüce mantıklı gelmedi
+
+#SCALING YAPILMALI --- robust scaler iyi çalışıyor
+
+
+
